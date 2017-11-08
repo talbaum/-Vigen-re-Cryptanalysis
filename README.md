@@ -12,8 +12,8 @@ A=0, B=1 , C=2, D=3, E=4,,F=5,G=6,H=7,I=8 ... Z=25
 
 let's see an example:
 
- plain text   :  **D**EFENDTHEEASTWALLOFTHECASTLE                                                      
- repeating key:                     **F**ORTIFYFORTIFYFORTIFYFORTIFY                                                       
+ regular text   :  **D**EFENDTHEEASTWALLOFTHECASTLE                                                      
+ repeated key:                     **F**ORTIFYFORTIFYFORTIFYFORTIFY                                                       
  ciphered text:          **I**SWXVIRMSVTAYUFZCHNYFJQRLBQC
 
 The first coloumn is D+F=I, which is 5+3=8 according to the table.
