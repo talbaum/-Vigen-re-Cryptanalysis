@@ -10,9 +10,9 @@ For example:
 Each letter get the value according to this method:
 A=0, B=1 , C=2, D=3, E=4,,F=5,G=6,H=7,I=8 ... Z=25
 
-let's take for example this plain text : DEFENDTHEEASTWALLOFTHECASTLE                                                      
-with this repeating key:                 FORTIFYFORTIFYFORTIFYFORTIFY                                                       
-we will get this ciphered text:          ISWXVIRMSVTAYUFZCHNYFJQRLBQC
+let's take for example this plain text : **D**EFENDTHEEASTWALLOFTHECASTLE                                                      
+with this repeating key:                     **F**ORTIFYFORTIFYFORTIFYFORTIFY                                                       
+we will get this ciphered text:          **I**SWXVIRMSVTAYUFZCHNYFJQRLBQC
 
 The first coloumn is D+F=I, which is 5+3=8 according to the table.
 
