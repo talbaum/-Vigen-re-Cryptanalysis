@@ -7,16 +7,12 @@ This project is dealing with Vigenre cipher.
 Each letter in the ABC get a value. A key word is decided and we can encrypt our plain text with the key to get the ciphered text.
 For example:
 
-Each letter get the value written beneath it:
-A B C D E F G H I J K L M
-0 1 2 3 4 5 6 7 8 9 10 11 12
+Each letter get the value according to this method:
+A=0, B=1 , C=2, D=3, E=4,,F=5,G=6,H=7,I=8 ... Z=25
 
-N  O  P  Q  R  S  T  U  V  W  X  Y  Z
-13 14 15 16 17 18 19 20 21 22 23 24 25
-
-Plaintext -    DEFENDTHEEASTWALLOFTHECASTLE
-Repeating key- FORTIFYFORTIFYFORTIFYFORTIFY
-Ciphertext -   ISWXVIRMSVTAYUFZCHNYFJQRLBQC
+let's take for example this plain text : DEFENDTHEEASTWALLOFTHECASTLE
+with this repeating key:                 FORTIFYFORTIFYFORTIFYFORTIFY
+we will get this ciphered text:          ISWXVIRMSVTAYUFZCHNYFJQRLBQC
 
 The first coloumn is D+F=I, which is 5+3=8 according to the table.
 
