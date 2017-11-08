@@ -42,4 +42,3 @@ a letter frequnecy formula.
 
 After we have found the key , we can use decipher function with the ciphered text and the key as parameters , and we will get the secret messege in response!
 
-
